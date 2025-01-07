@@ -8,12 +8,30 @@
 <h3 align="center" style="color: red;">🔭 Exploring Software Engineering Opportunities</h3>
 
 ---
-### 👨‍💻 About Me:
-- 🎓 Pursuing a **Master’s in Information Technology** at the University of Cincinnati, GPA: **4.00**, graduated in **December 2024**.
-- 💻 Former **Software Engineer at Persistent Systems**, delivering scalable full-stack applications and improving performance for global clients.
-- 🌱 Actively learning **Azure**, **Machine Learning**, and **Advanced Full-Stack Development** while solving real-world challenges.
-- 🏆 Certifications: **Microsoft Certified: Azure Data Scientist Associate (DP-100)**, **Explore a Career in Front-End Web Development**.
-- 🤝 Passionate about creating impactful software solutions and fostering collaborative learning environments.
+Here’s an updated and visually enhanced "About Me" section:
+
+---
+
+### 👨‍💻 **About Me**:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Creative%20Problem%20Solver-blueviolet?style=for-the-badge" alt="Creative Problem Solver">
+  <img src="https://img.shields.io/badge/-Team%20Player-brightgreen?style=for-the-badge" alt="Team Player">
+  <img src="https://img.shields.io/badge/-Tech%20Enthusiast-orange?style=for-the-badge" alt="Tech Enthusiast">
+</p>
+
+- 🎓 **Master’s Candidate** in **Information Technology** at the University of Cincinnati, maintaining a perfect GPA (**4.00/4.00**) and on track to graduate in **December 2024**.
+- 💡 Passionate about building **scalable, user-friendly software solutions** and leveraging **cutting-edge technologies** to solve real-world problems.
+- 💻 **Former Software Engineer** with **2+ years of experience** in full-stack development at Persistent Systems, where I improved performance, enhanced engagement, and delivered results-driven projects.
+- 🌱 Continuously learning and refining my expertise in **Cloud Computing**, **Machine Learning**, and **Full-Stack Development**, while staying updated with the latest industry trends.
+- 🏆 Certified **Azure Data Scientist Associate** and skilled in **data-driven decision-making** to deliver impactful results in both academic and professional projects.
+- 🤝 A collaborative leader and mentor with a passion for fostering growth, as seen in my current role as a **Graduate Teaching Assistant**, where I guide students in mastering core technologies like HTML, CSS, Python, and JavaScript.
+
+> 🌟 *"Driven by curiosity, powered by innovation, and committed to excellence in every line of code."*
+
+---
+
+Let me know if you'd like additional enhancements or more elements included!
 
 ### 📫 Let’s Connect:
 <div align="center"> 
