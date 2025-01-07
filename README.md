@@ -34,7 +34,7 @@
 
 ### ⚒️ Technical Skills:
 - **Programming Languages:** C, Java, Python, Javascript
-- **Web Development:** HTML/CSS, React.js, Angular, Node.js, Spring Boot, TypeScript
+- **Web Development:** HTML, CSS, React.js, Angular, Node.js, Spring Boot, TypeScript
 - **Databases:** MySQL, MongoDB, NoSQL
 - **Tools & Technologies:** GitHub, VSCode, MATLAB & Simulink
 - **Data Analysis:** Pandas, Matplotlib, Numpy, Machine Learning, NLP
@@ -42,18 +42,12 @@
 ---
 
 ### 🌟 Featured Projects:
-#### **Marketing Campaign for Banking Products**
-- **Tech Stack:** Python, Machine Learning
-- **Highlights:** Enhanced campaign effectiveness by 30% with predictive analysis using Logistic Regression, KNN, Naive Bayes, and Decision Tree classifiers. Achieved **98.58% accuracy** using Random Forest.
 #### **Personal Budget Management Application**
 - **Tech Stack:** React.js, Node.js, MySQL
 - **Highlights:** Developed a full-stack application enabling seamless financial tracking, boosting user engagement by 25%. Implemented JWT authentication and deployed with GitHub.
-
----
-
-### 📜 Certifications:
-- **Microsoft Certified: Azure Data Scientist Associate (DP-100)** - June 2024
-- **Explore a Career in Front-End Web Development** - March 2024
+#### **Marketing Campaign for Banking Products**
+- **Tech Stack:** Python, Machine Learning
+- **Highlights:** Enhanced campaign effectiveness by 30% with predictive analysis using Logistic Regression, KNN, Naive Bayes, and Decision Tree classifiers. Achieved **98.58% accuracy** using Random Forest.
 
 ---
 📊 GitHub Contributions and Activity:
