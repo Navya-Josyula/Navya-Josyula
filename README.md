@@ -10,7 +10,7 @@
 ### 👨‍💻 **About Me**:
 - 🎓 Master’s Graduate in Information Technology from the University of Cincinnati, with a GPA of 4.00/4.00, December 2024.
 - 💡 Passionate about building **scalable, user-friendly software solutions** and leveraging **cutting-edge technologies** to solve real-world problems.
-- 💻 **Former Software Engineer** with **2+ years of experience** in full-stack development at Persistent Systems, where I improved performance, enhanced engagement, and delivered results-driven projects.
+- 💻 **Former Software Engineer** with **3+ years of experience** in full-stack development at Persistent Systems, where I improved performance, enhanced engagement, and delivered results-driven projects.
 - 🌱 Continuously learning and refining my expertise in **Cloud Computing**, **Machine Learning**, and **Full-Stack Development**, while staying updated with the latest industry trends.
 - 🏆 Certified **Azure Data Scientist Associate** and skilled in **data-driven decision-making** to deliver impactful results in both academic and professional projects.
 - 🤝 A collaborative leader and mentor with a passion for fostering growth, as seen in my current role as a **Graduate Teaching Assistant**, where I guide students in mastering core technologies like HTML, CSS, Python, and JavaScript.
