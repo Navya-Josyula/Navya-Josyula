@@ -7,11 +7,6 @@
 
 <h3 align="center" style="color: red;">🔭 Exploring Software Engineering Opportunities</h3>
 
----
-Here’s an updated and visually enhanced "About Me" section:
-
----
-
 ### 👨‍💻 **About Me**:
 
 <p align="center">
