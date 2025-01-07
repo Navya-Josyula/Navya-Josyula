@@ -33,8 +33,8 @@
 ---
 
 ### ⚒️ Technical Skills:
-- **Programming Languages:** C, Java, Python
-- **Web Development:** React.js, Angular, Node.js, Spring Boot, TypeScript
+- **Programming Languages:** C, Java, Python, Javascript
+- **Web Development:** HTML/CSS, React.js, Angular, Node.js, Spring Boot, TypeScript
 - **Databases:** MySQL, MongoDB, NoSQL
 - **Tools & Technologies:** GitHub, VSCode, MATLAB & Simulink
 - **Data Analysis:** Pandas, Matplotlib, Numpy, Machine Learning, NLP
