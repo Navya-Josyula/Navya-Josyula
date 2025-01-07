@@ -36,7 +36,6 @@
 - **Programming Languages:** C, Java, Python
 - **Web Development:** React.js, Angular, Node.js, Spring Boot, TypeScript
 - **Databases:** MySQL, MongoDB, NoSQL
-- **Cloud & Frameworks:** Azure, ASP.NET, .NET Framework
 - **Tools & Technologies:** GitHub, VSCode, MATLAB & Simulink
 - **Data Analysis:** Pandas, Matplotlib, Numpy, Machine Learning, NLP
 
