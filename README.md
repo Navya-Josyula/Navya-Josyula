@@ -5,16 +5,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Navya+Sai+Josyula;" />
 </h1>
 
-<h3 align="center" style="color: red;">🔭 Exploring Software Engineering and Data Science Opportunities</h3>
+<h3 align="center" style="color: red;">🔭 Exploring Software Engineering Opportunities</h3>
 
 ---
-
 ### 👨‍💻 About Me:
-- 🎓 Pursuing a **Master’s in Information Technology** at the University of Cincinnati, GPA: **4.00**, set to graduate in **December 2024**.
+- 🎓 Pursuing a **Master’s in Information Technology** at the University of Cincinnati, GPA: **4.00**, graduated in **December 2024**.
 - 💻 Former **Software Engineer at Persistent Systems**, delivering scalable full-stack applications and improving performance for global clients.
 - 🌱 Actively learning **Azure**, **Machine Learning**, and **Advanced Full-Stack Development** while solving real-world challenges.
 - 🏆 Certifications: **Microsoft Certified: Azure Data Scientist Associate (DP-100)**, **Explore a Career in Front-End Web Development**.
 - 🤝 Passionate about creating impactful software solutions and fostering collaborative learning environments.
+
+### 📫 Let’s Connect:
+<div align="center"> 
+  <a href="mailto:navyasaijosyula97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/navya-sai-josyula-55a988173/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/navya-sai-josyula">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -54,19 +66,7 @@
 
 ---
 
-### 📫 Let’s Connect:
-<div align="center"> 
-  <a href="mailto:navyasaijosyula97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/navya-sai-josyula-55a988173/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/navya-sai-josyula">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+
 
 ---
 
-Let me know if you'd like further modifications or specific customizations!
