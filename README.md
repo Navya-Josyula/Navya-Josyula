@@ -42,9 +42,9 @@
 ---
 
 ### 🌟 Featured Projects:
-#### **Personal Budget Management Application**
-- **Tech Stack:** React.js, Node.js, MySQL
-- **Highlights:** Developed a full-stack application enabling seamless financial tracking, boosting user engagement by 25%. Implemented JWT authentication and deployed with GitHub.
+#### **GeminiBot**
+- **Tech Stack:** React, TypeScript, Node.js, Express, Flask, Google Gemini AI
+- **Highlights:** Engineered a dynamic frontend UI using React and TypeScript, leveraging Axios for seamless API integration and React Hooks for efficient state management, resulting in a 30% increase in user engagement. Architected and deployed robust backend services with Node.js and Express, integrating Google Gemini AI API via Flask for intelligent chatbot responses, which enhanced response accuracy by 40% and reduced latency by 25%.
 #### **Marketing Campaign for Banking Products**
 - **Tech Stack:** Python, Machine Learning
 - **Highlights:** Enhanced campaign effectiveness by 30% with predictive analysis using Logistic Regression, KNN, Naive Bayes, and Decision Tree classifiers. Achieved **98.58% accuracy** using Random Forest.
