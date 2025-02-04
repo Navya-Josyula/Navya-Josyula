@@ -45,9 +45,9 @@
 #### **GeminiBot**
 - **Tech Stack:** React, TypeScript, Node.js, Express, Flask, Google Gemini AI
 - **Highlights:** Engineered a dynamic frontend UI using React, TypeScript, and Axios, and architected robust backend services with Node.js, Express, Flask, and integrated Google Gemini AI for intelligent chatbot responses, aimed at creating an efficient and user-friendly AI chatbot web application.
-#### **Marketing Campaign for Banking Products**
-- **Tech Stack:** Python, Machine Learning
-- **Highlights:** Enhanced campaign effectiveness by 30% with predictive analysis using Logistic Regression, KNN, Naive Bayes, and Decision Tree classifiers. Achieved **98.58% accuracy** using Random Forest.
+#### **Personal Budget Management Application**
+- **Tech Stack:** React.js, Node.js, MySQL
+- **Highlights:** Developed a full-stack application enabling seamless financial tracking, boosting user engagement by 25%. Implemented JWT authentication and deployed with GitHub.
 
 ---
 📊 GitHub Contributions and Activity:
